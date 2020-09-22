@@ -1,0 +1,30 @@
+Z Icon Maker was made by Andres Zacarias.
+This .ocx will let you make cool Icon Maker Aplications.
+
+This is my firts version of it and has just one simple function.
+Make Icons.
+
+
+How to use this:
+
+1.-There are two properties for this to function correctly:
+   GetPath and SavePath.
+2.-In GetPath you will give the path of were is the .bmp file or
+   other image extension.
+3.-Once you have made that the SavePath is for were you whant it to
+   save the icon.
+
+
+IMPORTANT:
+
+When you give the both paths put there extension ( example .bmp )
+(example .ico )
+
+
+Thats all for the moment.
+For more information  andres_zacarias@hotmail.com
+
+no website avaible.
+
+               Zacarias Software
+
